@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 
 # Judul Utama
-st.title('Survival Rate Predictor')
-st.text('This web can be used to predict your survival rate')
+st.title('Deposit Rate Calculator')
+st.text('This web can be used to predict Deposit Success Rate')
 
 # Menambahkan sidebar
 st.sidebar.header("Please input your features")
